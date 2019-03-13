@@ -4,7 +4,7 @@
 
 ### Do not use Strict Mapping
 
-We advise against using strict mapping of API objects. We will add new API objects, but we will not remove any API objects that are already in place. If API objects are stricly mapped, your API integration may not work properly when new API objects are added.
+We advise against using strict mapping of API objects. We will add new API objects, but we will not remove any API objects that are already in place. If API objects are strictly mapped, your API integration may not work properly when new API objects are added.
 
 ### Window Manipulation
 
