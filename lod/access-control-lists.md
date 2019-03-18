@@ -31,14 +31,14 @@ Access Control Lists can optionally be set to inherit a parent ACL. Any domains 
 ### 
 
 1. Under **Blacklist**:
-    - In the **Domains** field, enter any domains you want to dissallow access to in the lab, each on a newline.
+    - In the **Domains** field, enter any domains you want to dissallow access to in the lab, each on a new line.
 
-    - In the **Expressions** field, enter any regular expressions, each on a newline.
+    - In the **Expressions** field, enter any regular expressions, each on a new line.
 
 1. Under **Whitelist**:
-    - In the **Domains** field, enter any domains you want to allow access to in the lab, each on a newline.
+    - In the **Domains** field, enter any domains you want to allow access to in the lab, each on a new line.
 
-    - In the **Expressions** field, enter any regular expressions, each on a newline.
+    - In the **Expressions** field, enter any regular expressions, each on a new line.
 
 ## Assigning an Access Control List
 
