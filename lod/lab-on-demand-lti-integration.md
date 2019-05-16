@@ -24,7 +24,7 @@ Once you have these pieces of information in hand, you can begin integrating you
 >
 > After gathering your LTI Client Key, LTI Client Secret, and Content URL, the next step is to [Integrate Content into an LTI consumer.](#integrating-content) 
 
-Labs that are launched from within LTI Providers may return a score back to the provider upon completion. If the lab is includes scored activities or performance-based testing items, the score calculated at the end of the lab will automatically be sent to the LTI Provider; however, if the lab does not include scored activities or performance-based testing items, you can still configure a LTI scoring policy for the lab such that the lab is scored based on the amount of time that a learner spent in the lab, or based on the number of tasks that were completed in the lab.
+Labs that are launched from within LTI Providers may return a score back to the provider upon completion. If the lab includes scored activities or performance-based testing items, the score calculated at the end of the lab will automatically be sent to the LTI Provider; however, if the lab does not include scored activities or performance-based testing items, you can still configure a LTI scoring policy for the lab such that the lab is scored based on the amount of time that a learner spent in the lab, or based on the number of tasks that were completed in the lab.
 
 To configure a lab to use a LTI scoring policy, there are several options in the **LTI** section of the **Advanced** tab of a lab profile.
 
