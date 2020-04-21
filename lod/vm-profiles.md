@@ -3,7 +3,7 @@
 Virtual machine (VM) profiles in Lab on Demand (LOD) are used in lab profiles. VMs in LOD use either Hyper-V or VMware as the hypervisor. 
 
 ## Supported Operating Systems
-For information which operating systems are supposed by Hyper-V and VMware, click below:
+For information which operating systems are supported by Hyper-V and VMware, click below:
 
 ### Hyper-V
 
