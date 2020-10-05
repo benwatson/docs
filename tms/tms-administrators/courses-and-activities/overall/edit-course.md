@@ -17,11 +17,11 @@ Editing a course profile is restricted when training aligned with the course is 
 * Auto Archive
 * Archive
 
-If you edit a course after any training has started, a message displays stating: This course has been used for a class or a course assignment and some fields cannot be changed. If you need to update the content, we recommend using the **Save As** button to [clone the course](/tms/tms-administratots/courses-and-activities/overall/clone-course.md) creating a new version of the course for future deliveries.
+If you edit a course after any training has started, a message displays stating: This course has been used for a class or a course assignment and some fields cannot be changed. If you need to update the content, we recommend using the **Save As** button to BROKEN [clone the course](/tms/tms-administratots/courses-and-activities/overall/clone-course.md) creating a new version of the course for future deliveries.
 
 To access all course features for editing, edit the course and select the **Save As** button. This creates a duplicate course profile and opens a dialog box to name the new course. The new course has all fields, activities, and settings open for editing; it can be updated and saved. Future deliveries of classes and course assignments can be created using the new course profile.
 
-Changes needed for a class in progress can be made by cloning the course and making the needed changes. The [class in progress can also be cloned] (/tms/tms-administrators/classes/schedule/clone-class.md), the course changed to the new course and saved. On the roster you can use the **Add Students from Event** link to choose the original class and add all those students as enrolled. 
+Changes needed for a class in progress can be made by cloning the course and making the needed changes. The BROKEN [class in progress can also be cloned] (/tms/tms-administrators/classes/schedule/clone-class.md), the course changed to the new course and saved. On the roster you can use the **Add Students from Event** link to choose the original class and add all those students as enrolled. 
 
 In order to not be invoiced for enrollments from a class in progress that was replaced by a new class using the new course, _you are required to contact Learn on Demand Systems Support the first day of class._ We can cancel the class session on your behalf. Requesting cancellation of classes beyond the first day of a class or beyond course assignment’s creation date requires approval by your Account Executive.
 
@@ -30,7 +30,7 @@ If you need assistance setting up a new course or class, please contact [LODS Su
 ### Additional Resources
 
 - [How do I clone an existing course?](/tms/tms-administrators/courses-and-activities/overall/clone-course.md)
-- [How do I clone an existing class?](/tms/tms-administrators/classes/schedule/clone-class.md)
+- BROKEN [How do I clone an existing class?](/tms/tms-administrators/classes/schedule/clone-class.md)
 
 
 
