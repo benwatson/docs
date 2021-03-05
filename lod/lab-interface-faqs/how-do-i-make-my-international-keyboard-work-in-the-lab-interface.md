@@ -15,7 +15,7 @@ When using the Lab on Demand (LOD) lab interface, there is support for internati
 
 1. Your web browser should be set to the desired language. 
 
-1. The language settings in the lab's virtual machine must be set to the desire language. 
+1. The language settings in the lab's virtual machine must be set to the desired language. 
 
 1. The hardware keyboard layout settings in the lab's virtual machine must be set to a keyboard layout that matches the desired language. 
 
