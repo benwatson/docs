@@ -8,7 +8,7 @@ isPublished: true
 
 Learn on Demand Systems (LODS) requires that any Cloud Slice labs must be evaluated for risk before external consumption. The LODS Security Review process defines a lab's security as **High**, **Medium**, or **Low** risk. 
 
-While this evalutation determines a lab's risk for cloud resource abuse, even **Low** risk labs still have potential for abuse but are determined to be designed in such a way that the risk is minimal.
+While this evaluation determines a lab's risk for cloud resource abuse, even **Low** risk labs still have potential for abuse but are determined to be designed in such a way that the risk is minimal.
 
 The risk levels of **High**, **Medium**, and **Low** are defined below with the requirements for a lab to be classified at that risk level. Each risk level also has a set of conditions under which it may be approved for publishing.
 
